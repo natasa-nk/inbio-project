@@ -86,7 +86,7 @@ $(function(){
 $('.sliader-main').slick({
   slidesToShow: 1,
   slidesToScroll: 1,
-  autoplay: false,
+  autoplay: true,
   arrows: true,
   prevArrow:".btn",
   nextArrow:".btn",
