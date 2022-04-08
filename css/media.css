@@ -952,6 +952,9 @@
         line-height: 40px;
         font-size: 16px;
     }
+    #demo {
+        display: none;
+    }
 }
 
 @media (min-width:500px) and (max-width:575.99px){
@@ -960,6 +963,9 @@
     }
     .card-information .ratting {
         top: 40%;
+        display: none;
+    }
+    #demo {
         display: none;
     }
 }
@@ -985,6 +991,9 @@
         margin-bottom: 35px;
     }
     .card-information .ratting {
+        display: none;
+    }
+    #demo {
         display: none;
     }
 }
